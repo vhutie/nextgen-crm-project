@@ -231,7 +231,7 @@
 	</dependencyManagement>
 
 	<build>
-		<finalName>telkom-sales-management</finalName>
+		<finalName>nextgen-crm-project</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
